@@ -14,7 +14,6 @@ func NewUserRepository() *Repository {
 
 
 
-//GetBook get a book
 func (r *Repository) GetUser() string {
 	
 
